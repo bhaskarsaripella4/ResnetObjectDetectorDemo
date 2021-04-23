@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ObjectDetectorDemo</string>
+    <string name="load_image">Load Image</string>
+    <string name="Detect">Detect</string>
+</resources>
